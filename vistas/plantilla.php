@@ -22,7 +22,21 @@
 </head>
 <body>
     
+<?php 
 
+/*========================= Header ====================*/
+include"modulos/header.php";
+
+/*========================= Body ====================*/
+include"modulos/body.php";
+
+/*========================= Footer ====================*/
+include"modulos/footer.php";
+
+/*========================= Copyright ====================*/
+include"modulos/copyright.php";
+
+ ?>
     
 </body>
 
